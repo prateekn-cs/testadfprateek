@@ -7,9 +7,6 @@
 		},
 		"AzureBlobStorage1_sasUri": {
 			"value": ""
-		},
-		"trigger1_properties_typeProperties_scope": {
-			"value": "/subscriptions/43b4bb12-b882-46e7-93a4-0e6afb14206a/resourceGroups/edinaanalytics/providers/Microsoft.Storage/storageAccounts/contatadev"
 		}
 	}
 }
