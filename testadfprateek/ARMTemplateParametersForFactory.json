@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "testadfprateek"
+		},
+		"AzureBlobStorage1_sasUri": {
+			"value": ""
+		},
+		"trigger1_properties_typeProperties_scope": {
+			"value": "/subscriptions/43b4bb12-b882-46e7-93a4-0e6afb14206a/resourceGroups/edinaanalytics/providers/Microsoft.Storage/storageAccounts/contatadev"
+		}
+	}
+}
