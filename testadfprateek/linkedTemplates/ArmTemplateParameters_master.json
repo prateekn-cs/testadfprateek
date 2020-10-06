@@ -5,9 +5,6 @@
 		"factoryName": {
 			"value": "testadfprateek"
 		},
-		"AzureBlobStorage1_sasUri": {
-			"value": ""
-		},
 		"containerUri": {
 			"value": ""
 		},

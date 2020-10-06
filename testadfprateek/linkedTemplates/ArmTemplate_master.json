@@ -7,10 +7,6 @@
 			"metadata": "Data Factory name",
 			"defaultValue": "testadfprateek"
 		},
-		"AzureBlobStorage1_sasUri": {
-			"type": "secureString",
-			"metadata": "Secure string for 'sasUri' of 'AzureBlobStorage1'"
-		},
 		"containerUri": {
 			"type": "string",
 			"metadata": "URI to storage account containing linked ARM templates"
@@ -37,9 +33,6 @@
 				"parameters": {
 					"factoryName": {
 						"value": "[parameters('factoryName')]"
-					},
-					"AzureBlobStorage1_sasUri": {
-						"value": "[parameters('AzureBlobStorage1_sasUri')]"
 					}
 				}
 			},
